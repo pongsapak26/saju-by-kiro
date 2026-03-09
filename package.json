@@ -1,0 +1,13 @@
+{
+  "name": "saju-fortune-telling",
+  "version": "1.0.0",
+  "description": "ระบบเว็บแอปพลิเคชันดูดวงซาจู (사주/四柱) ตามศาสตร์โหราศาสตร์เกาหลี",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0"
+  }
+}
